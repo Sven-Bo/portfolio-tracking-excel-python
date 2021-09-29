@@ -1,0 +1,4 @@
+yahoofinancials==1.6
+pandas==1.2.0
+xlwings==0.22.2
+
