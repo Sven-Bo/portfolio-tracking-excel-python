@@ -13,7 +13,7 @@ In this video, I will show you:
 
 ## Screenshot
 
-![Excel File Screenshot](https://www.screencast.com/t/1eFXTmOD9K)
+![Excel File Screenshot](https://content.screencast.com/users/jubbel3/folders/Snagit/media/d31d9bd9-2837-4451-86b4-a37c24bcbf12/09.29.2021-10.35.jpg)
 
 ## Video
 
