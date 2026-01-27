@@ -10,7 +10,6 @@ In this video, I will show you:
 2. how you can build your own portfolio tracker from scratch
 3. and last but not least, how to customize this template to your needs and liking
 
-
 ## Screenshot
 
 ![Excel File Screenshot](https://content.screencast.com/users/jubbel3/folders/Snagit/media/d31d9bd9-2837-4451-86b4-a37c24bcbf12/09.29.2021-10.35.jpg)
@@ -18,8 +17,6 @@ In this video, I will show you:
 ## Video
 
 [![YouTube Video](https://img.youtube.com/vi/4KsP5Et_aWo/0.jpg)](https://youtu.be/4KsP5Et_aWo)
-
-
 
 ## More Solutions
 Explore my tools and templates for Excel, automation, and more.
@@ -30,15 +27,7 @@ Explore my tools and templates for Excel, automation, and more.
 - **Website:** [PythonAndVBA](https://pythonandvba.com)
 - **LinkedIn:** [Sven Bosau](https://www.linkedin.com/in/sven-bosau/)
 - **Contact:** [Get in Touch](https://pythonandvba.com/contact)
-## ☕ Support 
-If you appreciate the project and wish to encourage its continued development, consider [supporting my work](https://pythonandvba.com/coffee-donation).
+## Support
+If you find this project helpful, consider buying me a coffee. 
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://pythonandvba.com/coffee-donation)
-
-## Feedback & Collaboration
-For feedback, suggestions, or potential collaboration opportunities, reach out at contact@pythonandvba.com.
-![Logo](https://www.pythonandvba.com/banner-img)
-If you have any feedback, please reach out to me at contact@pythonandvba.com
-
-
-![Logo](https://www.pythonandvba.com/banner-img)
-
